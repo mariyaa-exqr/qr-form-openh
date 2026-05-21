@@ -14,7 +14,7 @@ const App = () => {
   const [passwordError, setPasswordError] = useState('');
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
-  const PASSWORD = 'admin123'; // Change this to your password
+  const PASSWORD = 'realEstate26'; // Change this to your password
 
   // Load submissions from localStorage on mount
   useEffect(() => {
